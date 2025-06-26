@@ -1,4 +1,4 @@
-## I there 👋 I'm Bowen! You can also call me Stephen Chan.
+## I there 👋 I'm Stephen Chan. You can also call me Bowen!
 
 I am a M.S. student in Beijing Jiaotong University.
 
