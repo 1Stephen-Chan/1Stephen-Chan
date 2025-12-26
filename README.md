@@ -7,13 +7,14 @@ Currently pursuing my Master's degree at Beijing Jiaotong University, focusing o
 Learning/Research Interests：
 
 1) Machine & Deep Learning: Model training, optimization, and deployment
-2) Computer Vision (CV): Image classification, object detection, generative models (GANs, Diffusion)
+2) Multimodal LLM: Integrating vision, text, and audio includes image classification, object detection, and cross-modal generation (e.g., Diffusion, CLIP).
 3) Natural Language Processing (NLP): LLMs, text generation/understanding
-4) AI Application Development: Implementing AI in real-world scenarios
+4) Time Series Analysis: Forecasting, anomaly detection, and trend recognition on sequential data (using statistical methods or deep learning).
+5) AI Application Development: Implementing AI in real-world scenarios
 
 Technical Stack：
 
-🔹 Java | Python | PyTorch/TensorFlow | OpenCV 
+🔹 Java | Python | PyTorch 
 
 🔹 Linux environment
 
